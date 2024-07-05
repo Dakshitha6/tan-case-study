@@ -29,7 +29,7 @@ export function ThirdLandingSection() {
           </div>
         </div>
         <h1 className="w-full text-center">
-          <span className="block w-full text-9xl font-light tracking-tight md:tracking-widest text-transparent bg-clip-text bg-gradient-to-r from-indigo-500 via-purple-500 to-orange-300 text-center opacity-10 whitespace-nowrap">
+          <span className="block w-full text-4xl md:text-6xl lg:text-9xl font-light tracking-tight md:tracking-widest text-transparent bg-clip-text bg-gradient-to-r from-indigo-500 via-purple-500 to-orange-300 text-center opacity-10 whitespace-nowrap">
             YOU & I STUDIO
           </span>
         </h1>

@@ -5,7 +5,7 @@ import { cn } from "@/utils/cn";
 
 export function TextRevealCardPreview() {
   return (
-    <div className="flex items-center justify-center  h-[15rem] rounded-2xl w-full text-center text-wrap leading-loose">
+    <div className="flex items-center justify-center  h-[15rem] rounded-2xl w-full text-center text-wrap leading-loose ">
       <TextRevealCard
         text="“Together, we craft visions that inspire and transform”"
         revealText="“Empowering creativity, one design at a time.” "
