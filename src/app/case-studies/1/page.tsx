@@ -45,7 +45,7 @@ export default function Quantumloop() {
           aligned our features with market demands, enhancing appeal and
           competitiveness. This involved studying what elements made top games
           successful and understanding what players were looking for in a new
-          FPS game. By doing this, we could better tailor our game's mechanics,
+          FPS game. By doing this, we could better tailor our games mechanics,
           aesthetics, and features to meet player expectations and fill gaps in
           the market.
         </p>
@@ -62,7 +62,7 @@ export default function Quantumloop() {
           work clarified mechanics, narrative elements, and aesthetics, laying a
           solid foundation for development. This stage involved creating a
           cohesive vision that everyone on the team could understand and follow.
-          It helped in visualizing the game's world, the storyline, and how
+          It helped in visualizing the games world, the storyline, and how
           various elements like characters, environments, and gameplay mechanics
           would come together to create a unique and engaging experience.
         </p>
